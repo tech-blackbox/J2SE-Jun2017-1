@@ -1,0 +1,9 @@
+Main: Status of Thread-0 : NEW
+Main : Id 10 - Thread-0
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: RUNNABLE
+Main : Id 10 - Thread-0
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
